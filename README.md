@@ -1,1 +1,6 @@
 # Langchain-
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-openai
